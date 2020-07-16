@@ -1,4 +1,4 @@
-// require the our additons to the Discord.js Client Class.
+// import our modified Discord.js Client Class.
 const MDClient = require('./Structures/MDClient');
 // get out token, prefix and owners.
 const config = require('../config.json');
